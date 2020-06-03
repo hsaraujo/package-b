@@ -1,3 +1,4 @@
 [submodule "package-a"]
 	path = package-a
 	url = https://github.com/hsaraujo/package-a
+	tag = v1.0.0
