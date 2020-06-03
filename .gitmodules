@@ -1,0 +1,3 @@
+[submodule "package-a"]
+	path = package-a
+	url = https://github.com/hsaraujo/package-a
